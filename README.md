@@ -1,0 +1,1 @@
+This project folder *Zero Day* aims at presenting useful examples on linux related topics for easy referencing.You can save the [link] (https://github.com/greycodehub/zero_day.it "zero_day")for faster access. Other tips are *Bookmarking *Adding to fav on mobile
